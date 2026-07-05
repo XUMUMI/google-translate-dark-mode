@@ -4,10 +4,6 @@
 
 **Language:** [中文](#zh) | [English](#en)
 
-<p>
-  <img src="docs/images/google-translate-dark-mode-icon.svg" alt="Google Translate Dark Mode icon" width="96" height="96">
-</p>
-
 ![Google Translate dark mode screenshot](docs/images/google-translate-dark-mode.png)
 
 <a id="zh"></a>
