@@ -1,9 +1,12 @@
 // ==UserScript==
-// @name         Google Translate Theme Toggle
+// @name         Google Translate Dark Mode
+// @name:zh-CN   谷歌翻译暗色主题
 // @namespace    https://translate.google.com/
-// @description  给 Google 翻译添加暗色主题和主题切换按钮
+// @description  Add a dark theme and a theme toggle button to Google Translate.
+// @description:zh-CN   给 Google 翻译添加暗色主题和主题切换按钮
 // @copyright    2026, XUMUMI (https://xumumi.com)
-// @version      2.0.0.0-2026-05-27
+// @icon         https://raw.githubusercontent.com/XUMUMI/google-translate-dark-mode/refs/heads/main/icons/google-translate-black-logo.svg
+// @version      2.0.0.2-2026-05-27
 // @author       XUMUMI
 // @license      GPL-3.0
 // @match        https://translate.google.com/*
@@ -16,6 +19,9 @@
 // @include      about:blank
 // @run-at       document-start
 // @grant        none
+// @supportURL   https://github.com/XUMUMI/google-translate-dark-mode/issues
+// @downloadURL https://update.greasyfork.org/scripts/585631/Google%20Translate%20Theme%20Toggle.user.js
+// @updateURL https://update.greasyfork.org/scripts/585631/Google%20Translate%20Theme%20Toggle.meta.js
 // ==/UserScript==
 
 (function () {
