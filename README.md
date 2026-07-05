@@ -1,4 +1,4 @@
-# Google Translate Theme Toggle
+# Google Translate Dark Mode
 
 <a id="top"></a>
 
